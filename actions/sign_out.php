@@ -1,7 +1,7 @@
 <?php
 session::sign_out();
 
-Header('Location: '.page::ROOT_URL);
+Header('Location: '.ROOT_URL);
 exit;
 
 ?>

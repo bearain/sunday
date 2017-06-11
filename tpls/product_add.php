@@ -1,4 +1,4 @@
-<form action="<?php echo page::ROOT_URL?>?action=product_add" method="post">
+<form action="<?php echo ROOT_URL?>?action=product_add" method="post">
 Артикул:<br/>
 <input type="text" name="id" size="5"><br/>
 	

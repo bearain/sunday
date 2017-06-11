@@ -3,7 +3,6 @@
 class page{
 
 const PAGE_DIR = 'tpls';
-const ROOT_URL = '/sunday/';
 
 static $tpl_name = 'product_lst';
 
